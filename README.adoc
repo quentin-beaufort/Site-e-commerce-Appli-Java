@@ -1,11 +1,12 @@
-# Site-e-commerce-Appli-Java
+= Projet de BUT
 Développement d'un site de e-commerce et d'une Appli
-
-fiche de presentation:
+///
+fiche de presentation
 -titre
 -compétences + apprentissages critiques
--contexte : site/appli
--objectif site : traces -> livrables
-      -> explications -> demonstration
+-contexte  site/appli
+-objectif site  traces -> livrables
+-> explications -> demonstration
 -objectif bd
 -objectif hebergement
+///
